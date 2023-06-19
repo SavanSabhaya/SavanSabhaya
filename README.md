@@ -16,12 +16,12 @@
 
 <br>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SavanSabhaya&show_icons=true&locale=en&layout=compact" alt="pratikandarpa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SavanSabhaya&show_icons=true&locale=en&layout=compact" alt="SavanSabhya" /></p>
 
 <br>
 
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SavanSabhaya&show_icons=true&locale=en" alt="pratikandarpa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SavanSabhaya&show_icons=true&locale=en" alt="SavanSabhya" /></p>
 
 <br>
 </br>
